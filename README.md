@@ -21,7 +21,6 @@ their tickets.
 ### UML DIAGRAMS:
 # CLASS DIAGRAM:
 <img width="827" height="654" alt="Screenshot 2025-09-01 103320" src="https://github.com/user-attachments/assets/0ab69ed6-f214-458b-801c-e6e1b0e039ac" />
-
 # USECASE DIAGRAM:
 <img width="828" height="756" alt="Screenshot 2025-09-01 103312" src="https://github.com/user-attachments/assets/fd2dd1d3-30e9-4d8f-9b59-901ea4f6e371" />
 
